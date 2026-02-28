@@ -11,6 +11,7 @@ export interface Translation {
     works: string;
     contact: string;
   };
+  
   hero: {
     label: string;
     title: string;
