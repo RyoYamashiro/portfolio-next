@@ -1,0 +1,91 @@
+{
+  "meta": {
+    "title": "Ryo Yamashiro | Full-Stack Engineer",
+    "description": "Full-stack web engineer based in Tokyo. From WordPress to Next.js. Feel free to reach out at any stage of your project."
+  },
+  "nav": {
+    "top": "Top",
+    "about": "About",
+    "works": "Works",
+    "contact": "Contact"
+  },
+  "hero": {
+    "label": "Full-Stack Engineer / Web Development",
+    "title": "Web that grows\nalongside your business.",
+    "subtitle": "Helping small business owners build and improve their web presence — from WordPress to custom development.",
+    "cta": "Get in touch",
+    "corner": ["// PORTFOLIO v1.0", "// FULL-STACK ENGINEER", "// TOKYO, JP"]
+  },
+  "about": {
+    "label": "About",
+    "title": "Always by your\nbusiness's side.",
+    "body1": "Hi, I'm Ryo Yamashiro — a full-stack engineer in my late 20s, working freelance alongside my main job. I started with HTML / CSS / JavaScript and have built up 2 years of hands-on experience across PHP, Laravel, and Next.js.",
+    "body2": "What I value most is responsiveness and clear communication. Rather than moving forward with vague requirements, I make sure to align on priorities together — always keeping timelines and scope in mind. My strength lies not just in the technical side, but in making sure clients never feel left in the dark.",
+    "cards": {
+      "style": { "label": "STYLE", "value": "Freelance (side business) · Late 20s" },
+      "experience": { "label": "EXPERIENCE", "value": "Self-taught + 2 years hands-on" },
+      "response": { "label": "RESPONSE", "value": "Quick replies · Timeline depends on scope" },
+      "strength": { "label": "STRENGTH", "value": "Requirement scoping with timeline in mind" }
+    }
+  },
+  "works": {
+    "label": "Works",
+    "subtitle": "A selection of projects I've built and shipped.",
+    "buddyb": {
+      "tags": ["WordPress", "Personal Gym", "New Build"],
+      "subtitle": "Personal gym in Nago, Okinawa · Corporate website",
+      "visitSite": "Visit site",
+      "overview": "Started with a tight deadline before the gym's grand opening. I worked closely with the client from the concept stage — helping articulate the brand vision and prioritizing features to hit the launch date. At release, I spent 2 hours walking the client through web servers and domains via screen share, so they could start operations with full confidence in what they were paying for. No matter what stage your idea is at, we can figure it out together.",
+      "processLabel": "Process",
+      "steps": [
+        {
+          "title": "Discovery & Scoping",
+          "body": "Even a vague idea is a great starting point. I'll help you put your vision into words and map out the direction together."
+        },
+        {
+          "title": "Requirements & Priorities",
+          "body": "We break down features by timeline and budget, and focus on what matters most first."
+        },
+        {
+          "title": "Build & Test",
+          "body": "I share screenshots and screen recordings regularly so you can visualize progress. If delays arise, I'll flag them early and we'll re-prioritize together."
+        },
+        {
+          "title": "Launch & Support",
+          "body": "At launch, I walk you through servers and domains via screen share — so you understand exactly what you're paying for and can run your site with confidence."
+        }
+      ]
+    }
+  },
+  "testimonials": {
+    "label": "Testimonials",
+    "subtitle": "What clients have said about working together.",
+    "items": [
+      {
+        "body": "We came in with a tight timeline, but Ryo helped us figure out what to tackle first and we launched on schedule. Every revision was handled quickly — I always felt like things were in good hands.",
+        "name": "Kenta Yamashiro",
+        "role": "Owner, BUDDYB Personal Gym"
+      }
+    ]
+  },
+  "contact": {
+    "label": "Contact",
+    "subtitle": "Have a project in mind? Let's talk.",
+    "note": "Early-stage ideas and casual inquiries are always welcome.",
+    "fields": {
+      "name": { "label": "Name", "placeholder": "Jane Smith" },
+      "email": { "label": "Email", "placeholder": "example@email.com" },
+      "type": {
+        "label": "Inquiry type",
+        "placeholder": "Select one",
+        "options": ["New website build", "Improvements to existing site", "Just want to chat (early stage is fine)", "Other"]
+      },
+      "message": { "label": "Message", "placeholder": "Not sure where to start? That's totally fine — just describe what you have in mind and we'll go from there." }
+    },
+    "submit": "Send message",
+    "disclaimer": "No auto-reply will be sent. I'll get back to you as soon as possible."
+  },
+  "footer": {
+    "copy": "© 2025 Ryo Yamashiro. All Rights Reserved."
+  }
+}
