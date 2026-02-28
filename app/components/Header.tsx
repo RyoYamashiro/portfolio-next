@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import Link from "next/link";
-import { Translation } from "@/types/i18n";
+import { Translation } from "../types/i18n";
 
 type Props = {
   t: Translation;
